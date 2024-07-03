@@ -1,5 +1,5 @@
 # AI Math Notes
-![AI-Math-Notes](https://github.com/ayushpai/AI-Math-Notes/assets/43297680/b2a2b0ce-5d1b-4639-8549-4f2725eb4c28)
+![AI-Math-Notes](https://github.com/yashc1712/AI-Math-Notes)
 
 AI Math Notes is an interactive drawing application that allows users to draw mathematical equations on a canvas. Once an equation is drawn, the application uses a multimodal LLM to calculate and display the result next to the equals sign. The application is built using Python with the Tkinter library for the graphical user interface and PIL for image processing. Inspired by Apple's ["Math Notes" demo](https://www.youtube.com/live/RXeOiIDNNek?si=zsfLkfVtCoCqk1ie&t=2806) from WWDC 2024.
 
